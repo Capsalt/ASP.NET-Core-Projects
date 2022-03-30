@@ -1,0 +1,12 @@
+C:\Users\HBA\Desktop\ASP.NET-Core-Projects\NLayerApp\NLayerApp\NLayer.Core\bin\Debug\net5.0\NLayer.Core.deps.json
+C:\Users\HBA\Desktop\ASP.NET-Core-Projects\NLayerApp\NLayerApp\NLayer.Core\bin\Debug\net5.0\NLayer.Core.dll
+C:\Users\HBA\Desktop\ASP.NET-Core-Projects\NLayerApp\NLayerApp\NLayer.Core\bin\Debug\net5.0\ref\NLayer.Core.dll
+C:\Users\HBA\Desktop\ASP.NET-Core-Projects\NLayerApp\NLayerApp\NLayer.Core\bin\Debug\net5.0\NLayer.Core.pdb
+C:\Users\HBA\Desktop\ASP.NET-Core-Projects\NLayerApp\NLayerApp\NLayer.Core\obj\Debug\net5.0\NLayer.Core.csproj.AssemblyReference.cache
+C:\Users\HBA\Desktop\ASP.NET-Core-Projects\NLayerApp\NLayerApp\NLayer.Core\obj\Debug\net5.0\NLayer.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HBA\Desktop\ASP.NET-Core-Projects\NLayerApp\NLayerApp\NLayer.Core\obj\Debug\net5.0\NLayer.Core.AssemblyInfoInputs.cache
+C:\Users\HBA\Desktop\ASP.NET-Core-Projects\NLayerApp\NLayerApp\NLayer.Core\obj\Debug\net5.0\NLayer.Core.AssemblyInfo.cs
+C:\Users\HBA\Desktop\ASP.NET-Core-Projects\NLayerApp\NLayerApp\NLayer.Core\obj\Debug\net5.0\NLayer.Core.csproj.CoreCompileInputs.cache
+C:\Users\HBA\Desktop\ASP.NET-Core-Projects\NLayerApp\NLayerApp\NLayer.Core\obj\Debug\net5.0\NLayer.Core.dll
+C:\Users\HBA\Desktop\ASP.NET-Core-Projects\NLayerApp\NLayerApp\NLayer.Core\obj\Debug\net5.0\ref\NLayer.Core.dll
+C:\Users\HBA\Desktop\ASP.NET-Core-Projects\NLayerApp\NLayerApp\NLayer.Core\obj\Debug\net5.0\NLayer.Core.pdb
